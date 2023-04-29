@@ -10,7 +10,7 @@
 ## ✅Problem Solving
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdud12365)](https://solved.ac/wnsdud12365)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsdud12365&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsdud12365&theme=dark)
 
 ## 📚Skills
 
