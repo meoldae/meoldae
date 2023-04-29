@@ -38,21 +38,23 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
-  
 </p>
+  
+## 🏙Oranization  
+|Name|Position|Period|
+|:--:|:--:|:--:|
+|Chungnam National University|Student|2016.03 ~ 2023.02|
+|SSAFY|Student|2023.01 ~ ing|
+  
+## 🏅Certificate
+|Name|Institution|Date|
+|:--:|:--:|:--:|
+|정보처리기사|한국 산업 인력공단|2022.06.17|
+|SQL Developer|한국 데이터 산업 진흥원|2021.06.25|
+
+## 📬Contact Me
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:wnsdud12365@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:wnsdud124894@gmail.com)
+  
 </div>
 
-<!--
-**meoldae/meoldae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
