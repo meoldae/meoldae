@@ -46,7 +46,7 @@
 |Name|Position|Period|
 |:--:|:--:|:--:|
 |Chungnam National University|Student|2016.03 ~ 2023.02|
-|SSAFY|Student|2023.01 ~ ing|
+|SSAFY|9th|2023.01 ~ ing|
   
 ## 🏅Certificate
 |Name|Institution|Date|
