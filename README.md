@@ -49,8 +49,9 @@
 ## 🏅Certificate
 |Name|Institution|Date|
 |:--:|:--:|:--:|
-|정보처리기사|한국 산업 인력공단|2022.06.17|
 |SQL Developer|한국 데이터 산업 진흥원|2021.06.25|
+|정보처리기사|한국 산업 인력공단|2022.06.17|
+
 
 ## 📬Contact Me
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:wnsdud12365@naver.com)
