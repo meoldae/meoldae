@@ -53,7 +53,7 @@
 |:--:|:--:|:--:|
 |SQL Developer|한국 데이터 산업 진흥원|2021.06.25|
 |정보처리기사|한국 산업 인력공단|2022.06.17|
-|1학기 최종 프로젝트 최우수상|SSAFY|2023.05.26|
+|[1학기 최종 프로젝트 최우수상](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|SSAFY|2023.05.26|
 
 
 ## 📬Contact Me
