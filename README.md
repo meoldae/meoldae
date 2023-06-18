@@ -53,7 +53,7 @@
 |Chungnam National University|Student|2016.03 ~ 2023.02|
 |SSAFY|9th|2023.01 ~ ing|
   
-## 🏅Certificate
+## 🏅Certificate & Awards
 |Name|Institution|Date|
 |:--:|:--:|:--:|
 |SQL Developer|한국 데이터 산업 진흥원|2021.06.25|
