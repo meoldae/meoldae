@@ -21,14 +21,14 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-007396.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
 
 ### At least Used Once  
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java Script-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<!--   <img src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=JPA&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Docker-007ACC.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/> -->
 
 </p>
   
@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 </p>
+
+## 🗃Projects
+|프로젝트 명|참여 인원|기간|소개|역할|PR 횟수|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|[EnjoyTrip](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|SSAFY 1학기 최종 프로젝트<br>공공데이터를 이용한 여행 웹서비스|회원, 게시판, 관광지정보 담당<br>(백엔드, 프론트엔드)|220/428|
   
 ## 🏙Oranization  
 |Name|Position|Period|
