@@ -45,7 +45,7 @@
 ## 🗃Projects
 |프로젝트 명|참여 인원|기간|소개|역할|PR 횟수|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|[EnjoyTrip](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|SSAFY 1학기 최종 프로젝트<br>공공데이터를 이용한 여행 웹서비스|회원, 게시판, 관광지정보 담당<br>(백엔드, 프론트엔드)|220/428|
+|[EnjoyTrip](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|SSAFY 1학기 최종 프로젝트<br>Spring, Vue를 통한 여행 웹사이트|회원, 게시판, 관광지정보 담당<br>(백엔드, 프론트엔드)|220/428|
   
 ## 🏙Oranization  
 |Name|Position|Period|
