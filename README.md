@@ -48,8 +48,8 @@
 ## 🗃Projects
 |프로젝트 명|참여 인원|기간|소개|역할|
 |:--:|:--:|:--:|:--:|:--:|
-|[EnjoyTrip](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|Spring, Vue를 통한 여행 도움 웹사이트|BE/FE|
-|[이몽저몽](추후업데이트)|4명|2023.06.10 ~ 2023.07.24|Spring, JPA를 활용한 지역관광 게이미피케이션 앱|BE|
+|[EnjoyTrip](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|공공데이터를 통한 여행 도움 웹사이트|BE / FE|
+|[이몽저몽](추후업데이트)|4명|2023.06.10 ~ 2023.07.24|공공데이터를 활용한 지역관광 게이미피케이션 앱|BE|
 |[PEEKPICK](추후업데이트)|6명|2023.07.10 ~ 2023.08.18|위치 기반 익명 취향공유 플랫폼|BE / INFRA|
   
 ## 🏙Oranization  
