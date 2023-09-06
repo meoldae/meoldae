@@ -65,7 +65,7 @@
 |정보처리기사|한국 산업 인력공단|2022.06.17|
 |[1학기 최종 프로젝트 최우수상](https://github.com/SSAFY9-CLASS6-Team7/Enjoy_Trip_Team7)|SSAFY|2023.05.26|
 |[대전교통공사특별상](https://github.com/meoldae/IMongJeoMong-backend)|대전 정보문화산업진흥원|2023.08.18|
-|[2학기 공통 프로젝트 최우수상](추후링크추가)|SSAFY|2023.08.25|
+|[2학기 공통 프로젝트 최우수상](https://github.com/meoldae/PEEKPICK)|SSAFY|2023.08.25|
 
 
 ## 📬Contact Me
