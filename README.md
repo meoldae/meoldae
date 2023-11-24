@@ -5,6 +5,7 @@
 ## 📊 My Stats
   
 ![Meoldae's GitHub stats](https://github-readme-stats.vercel.app/api?username=meoldae&show_icons=true&theme=github_dark_dimmed&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meoldae&layout=compact&theme=merko)
 
  
 ## ✅Problem Solving
