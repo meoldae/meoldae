@@ -1,32 +1,37 @@
-<div align=center> 
-
-# Jeon Jun Young
+# <div align=center> Jeon Jun Young </div>
 
 ## <div style="text-align: left"> 👩‍💻 About Me </div>
 <div style="text-align: left">
-<b>웹 백엔드</b> 개발자를 희망하고 있습니다.    <br>
+<b>웹 백엔드</b> 개발자를 희망하고 있습니다.    <br><br>
 서비스의 <b>가용성</b>을 중요하게 생각합니다. 때문에 최근 <b>클라우드 서비스</b>와 <b>분산 시스템</b>에 대해 관심을 가지고 있습니다.
-<br>
+<br><br>
 항상 <b>왜?</b> 라는 의문을 가지고 <b>근거</b>를 제시할 수 있도록 노력하고 있습니다.
-<br>
+<br><br>
 아무리 뛰어난 개발자라도 혼자서 모든 것을 할 수 없다고 생각하며 <b>소통</b>의 중요성을 잘 알고 있습니다.
-<br>
+<br><br>
 나의 시간만큼이나 남의 시간도 중요하다고 생각합니다. <b>철저한 시간 관념</b>을 가지고 있습니다.
-<br>
+<br><br>
 사진 촬영을 좋아합니다. 스트레스는 취미인 사진 촬영을 통해 해소합니다.
-<br>
+<br><br>
 </div>
 
 ## <div style="text-align: left"> 📊 My Stats </div>
+
+<div align=center> 
   
 ![Meoldae's GitHub stats](https://github-readme-stats.vercel.app/api?username=meoldae&show_icons=true&theme=github_dark_dimmed&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meoldae&layout=compact&theme=merko)
 
+</div>
+
 
 ## <div style="text-align: left"> ✅ Problem Solving </div> 
+
+<div align=center> 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdud12365)](https://solved.ac/wnsdud12365)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wnsdud12365&theme=dark)
+
+</div>
 
 ## <div style="text-align: left"> 📚 Skills </div> 
 
@@ -83,6 +88,8 @@
 
 ## <div style="text-align: left"> 🗃 Projects </div> 
 
+<div align=center> 
+  
 |프로젝트 명|참여 인원|기간|소개|역할|
 |:--:|:--:|:--:|:--:|:--:|
 |[EnjoyTrip](https://github.com/meoldae/Enjoy_Trip_Team7)|2명|2023.05.17 ~ 2023.05.26|공공데이터를 통한 여행 도움 웹사이트|BE / FE|
@@ -91,20 +98,35 @@
 |[하루연구소](https://github.com/meoldae/DailyLab)|6명|2023.08.28 ~ 2023.10.06|개인 맞춤형 할일 추천, 보고서 작성 서비스|BE / INFRA|
 |[딩동](https://github.com/meoldae/Dingdong)|6명|2023.10.10 ~ 2023.11.17|인터랙티브 웹 서비스|BE / FE / INFRA|
 
+</div>
+
 ## <div style="text-align: left">  🏙 Oranization </div> 
 
+<div align=center> 
+  
 |Name|Position|Period|Department|
 |:--:|:--:|:--:|:--:|
 |Chungnam National University|Student|2016.03 ~ 2023.02|Computer Science| 
 |SSAFY|9th|2023.01 ~ Current|Java (Backend) |
+
+</div>
+
   
 ## <div style="text-align: left"> 🎫 Certificate </div> 
+
+<div align=center> 
+
 |Name|Institution|Date|
 |:--:|:--:|:--:|
 |SQL Developer|한국 데이터 산업 진흥원|2021.06.25|
 |정보처리기사|한국 산업 인력공단|2022.06.17|
 
+</div>
+
 ## <div style="text-align: left"> 🏆 Awards </div> 
+
+<div align=center> 
+
 |Name|Level|Institution|Date|
 |:--:|:--:|:--:|:--:|
 |-|1학기 성적 우수상|삼성전자 주식회사|2023.05.26|
@@ -114,4 +136,3 @@
 |SSAFY 2학기 자율 프로젝트 경진대회|[자율 프로젝트 우수상](https://github.com/meoldae/Dingdong)|삼성전자 주식회사|2023.12.20|
   
 </div>
-
