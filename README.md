@@ -106,8 +106,8 @@
   
 |Name|Position|Period|Department|
 |:--:|:--:|:--:|:--:|
-|Chungnam National University|Student|2016.03 ~ 2023.02|Computer Science| 
-|SSAFY|9th|2023.01 ~ Current|Java (Backend) |
+|Chungnam National University|Student|2016.03 ~ 2023.02|컴퓨터공학과 학사|
+|SSAFY|9th|2023.01.04 ~ 2023.12.29|Java (Backend) 최우수 수료 |
 
 </div>
 
